@@ -1,0 +1,10 @@
+.buttonWrapper {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.inputWraper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
